@@ -3,6 +3,8 @@
 
 int main()
 {
-	printf("qqq");
+	int a = 0, b = 0;
+	scanf("%d%d", &a, &b);
+	printf("qqq %d %d", a, b);
 	return 0;
 }
